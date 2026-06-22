@@ -12,7 +12,7 @@ Unlicensed use by any **business**, **corporation**, **government**, **research 
 ### Contact Details for Licenses or Special Use Exception
 - **License Name:** HACK THE PLANET License v1.0.0
 - **Licensor:** scramblr AKA notdan
-- **Link to license:** [https://github.com/scramblr/licenses/htp-v1.0.0.md](https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md)
+- **Link to license:** [https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md](https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md)
 - **Email:** licensing@notdan.org
 - **Email:** scramblr@blackhats.ru
 
@@ -28,7 +28,7 @@ However, you may only:
 - **make changes or new works based on the software** according to the **Changes and New Works License** and only as allowed there.
 
 ### Distribution License
-The licensor grants you an additional copyright license to distribute copies of the software **only to individual, naturally born persons** for their permitted personal use, **and only if** the recipient is provided with **htp-v1.0.0.md** (the license file) **as well as** provided with the required license URL(s): [https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md](https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md)
+The licensor grants you an additional copyright license to distribute copies of the software **only to individual, naturally born persons** for their permitted personal use, **and only if** the recipient is provided with **htp-v1.0.0.md** (the license file) as well as provided with the required license URL(s): [https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md](https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md)
 
 This license to distribute does **not** permit distribution to any non-natural person(s), including organizations, companies, government entities, educational institutions, charities, nonprofits, or any other legal entity.
 
@@ -68,10 +68,14 @@ Any use by any **business**, **corporation**, **government**, **any government i
 This restriction applies whether the user is the named party, an affiliate, a contractor, an employee, an agent, or otherwise acting in a capacity that involves any organization or legal entity.
 
 ### Fair Use
-You may have “fair use” rights for the software under the law. These terms do not limit or superscede any contitutional or federal laws of the United States of America. These terms do not limit or superscede any other rights from which the ORIGINATING PARTY OR AUTHOR are based from and explicitly DOES NOT recognize the courts of other land(s). The legal venue, unless explicitly stated otherwise, is the United States of America. 
+You may have “fair use” rights for the software under the law. These terms do not limit or supersede any constitutional or federal laws of the United States of America. These terms do not limit or supersede any other rights from which the originating party or author are based from, and these terms do not recognize courts of other jurisdictions for disputes arising under these terms. The sole and exclusive venue/jurisdiction for disputes under these terms, unless expressly agreed otherwise in a separate licensing agreement, is the United States of America.
 
 ### No Other Rights
-Neither obtained licenses, exemptions from the author, nor these terms shall allow you to sublicense or transfer any of your licenses to another party, and shall not prevent the licensor from granting licenses to anyone else. This includes licenses obtained under any "Most Favored Nation" clauses, "Special Terms", or any terms set forth by the purchasing party or organization(s), regardless of how prescriptive they may be percieved by the licensee or purchasing party. The licensing body whom protects their works under the HACK THE PLANET ("HTP") License, shall, for any works, be protected by the HACK THE PLANET ("HTP") License Agreement in an unrevokable and authoritative manner which exists in perpetutity unless expressly stated in writing through license agreement or exemption from the licensing body/author.
+Neither obtained licenses, exemptions from the author, nor these terms shall allow you to sublicense or transfer any of your licenses to another party, and shall not prevent the licensor from granting licenses to anyone else.
+
+This includes licenses obtained under any "Most Favored Nation" clauses, "Special Terms", or any terms set forth by the purchasing party or organization(s), regardless of how prescriptive they may be perceived by the licensee or purchasing party. The licensing body whom protects their works under the HACK THE PLANET ("HTP") License, shall, for any works, be protected by the HACK THE PLANET ("HTP") License Agreement in an irrevocable and authoritative manner which exists in perpetuity unless expressly stated in writing through license agreement or exemption from the licensing body/author.
+
+No third-party terms shall override, supersede, or otherwise modify the rights and restrictions granted in or by these terms.
 
 These terms do not imply or preclude inclusion of any additional licenses but recommends any additional terms be itemized below:
 - NO OTHER LICENSES INCLUDED.
@@ -80,11 +84,11 @@ These terms do not imply or preclude inclusion of any additional licenses but re
 If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company (or any organization/legal entity you represent or act for) makes such a claim, your patent license ends immediately for work on behalf of that entity.
 
 ### Violations
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses MAY, if authorized, continue without revocation if full compliance with these terms is achieved through corrective measures, as well as demonstrating practical steps have been introduced to correct past violations. Demonstration of compliance and correction of violations shall be produced within 90 calendar days and supplied to the licensing body after receipt and acknowledgement of the violation notification(s). Disputes over evidence to support compliance and correction will be solely decided by the licensing body. Refusal to comply, correct, or produce evidence of correction(s) shall result in all termination of licenses and/or exemptions immediately, and any affiliated entities or organizations will be in material breach and a state of non-compliance, and anticipated litigation. 
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses MAY, if authorized, continue without revocation if full compliance with these terms is achieved through corrective measures, as well as demonstrating practical steps have been introduced to correct past violations. Demonstration of compliance and correction of violations shall be produced within 90 calendar days and supplied to the licensing body after receipt and acknowledgement of the violation notification(s). Disputes over evidence to support compliance and correction will be solely decided by the licensing body. Refusal to comply, correct, or produce evidence of correction(s) shall result in all termination of licenses and/or exemptions immediately, and any affiliated entities or organizations will be in material breach and a state of non-compliance, and anticipated litigation.
 
-Any violation notifications that are ignored, disputed, or refused shall result in imediate license revocation as well as anticipated litigation.
+Any violation notifications that are ignored, disputed, or refused shall result in immediate license revocation as well as anticipated litigation.
 
-Any time you are officially contacted regarding a violation described in this section, your organization(s) shall immediately begin a LITIGATION HOLD (AKA Document Hold or Legal Hold) and serves as notice to comply with United States Federal Rules of Civil Procedures and suspend all normal disposition or processing of any records, as litigiation should be reasonably expected. Once the violations or corrective measures have been verified, the licensing body will provide a certification document which shall serve as notice that there is no longer future anticipated litigation, and thus all LITIGATION HOLD(s) are lifted.
+Any time you are officially contacted regarding a violation described in this section, your organization(s) shall immediately begin a litigation hold (also known as document hold or legal hold) and serve as notice to comply with United States Federal Rules of Civil Procedure and suspend all normal disposition or processing of any records, as litigation should be reasonably expected. Once the violations or corrective measures have been verified, the licensing body will provide a certification document which shall serve as notice that there is no longer future anticipated litigation, and thus all litigation hold(s) are lifted.
 
 ### No Liability
 *As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.*
@@ -103,7 +107,9 @@ The **licensor** or **licensing body** as referenced in this document and otherw
 **Permitted purpose** means any use that is:
 1. by an individual, naturally born person,
 2. for personal, individual, non-commercial, non-revenue generating purposes, and
-3. not performed for or on behalf of any excluded organization or non-natural person(s).
+3. not performed for or on behalf of any organization, legal entity, or other non-natural person(s).
+
+For avoidance of doubt: **any use by, for, or within any organization or other legal entity is not a permitted purpose.**
 
 **Use** means anything you do with the software requiring one of your licenses.
 
