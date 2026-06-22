@@ -10,6 +10,7 @@ The author intends for these artistic expressions (“Software”) to be used **
 Unlicensed use by any **business**, **corporation**, **government**, **research or educational institution**, **non-profit organization**, **charitable organization**, **public research organization**, **public safety or health organization**, **environmental protection organization**, or **any non-natural person(s)** (including any organization, entity, or legal person), and/or use that is **commercial** or **revenue-generating**, without first obtaining a separate written exclusion or paid license from the licensor, will result in litigation seeking the maximum legally allowed penalty for unauthorized use, in a court of law.
 
 ### Contact Details for Licenses or Special Use
+- **Link to license:** https://github.com/scramblr/licenses/htp-v1.0.0.md
 - **Licensor:** scramblr AKA notdan
 - **Email:** scramblr@blackhats.ru & licensing@notdan.org
 - **License Name:** HACK THE PLANET License v1.0.0
@@ -26,7 +27,7 @@ However, you may only:
 - **make changes or new works based on the software** according to the **Changes and New Works License** and only as allowed there.
 
 ### Distribution License
-The licensor grants you an additional copyright license to distribute copies of the software **only to individual, naturally born persons** for their permitted personal use, and **only** when the distributor also provides the recipient a copy of these terms (or the URL for them) and any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.
+The licensor grants you an additional copyright license to distribute copies of the software **only to individual, naturally born persons** for their permitted personal use, **and only if** the recipient is provided with **htp-v1.0.0.md** (the license file) **as well as** provided with the required license URL(s) below.
 
 This license to distribute does **not** permit distribution to any non-natural person(s), including organizations, companies, government entities, educational institutions, charities, nonprofits, or any other legal entity.
 
@@ -37,13 +38,15 @@ For example:
 
 > Required Notice: Copyright "notdan" AKA "scramblr"  
 > - Email: "licensing@notdan.org"  
-> - Website: https://backdoored.ru  
-> - License: (this file)  
+> - License: https://github.com/scramblr/licenses/htp-v1.0.0.md
 
 ### Changes and New Works License
 The licensor grants you an additional copyright license to make changes and new works based on the software for any **permitted purpose**, and for the resulting works to be used only as permitted under this license.
 
-You may distribute modified works **only** under the same restrictions as the **Distribution License** (i.e., only to individual, naturally born persons for permitted personal use).
+You may distribute modified works **only** under the same restrictions as the **Distribution License** (i.e., only to individual, naturally born persons for permitted personal use, and only if the recipient is provided with **htp-v1.0.0.md** and the license URL below).
+
+### License URL (for all packages/zips/distributions)
+License: https://github.com/scramblr/licenses/htp-v1.0.0.md
 
 ### Patent License
 The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
@@ -98,4 +101,3 @@ The **software** is the software the licensor makes available under these terms.
 - selling services where the software is a component or offering,
 - deploying the software as part of a product or service intended to generate revenue,
 - any use where you have an anticipated commercial application.
-
