@@ -1,4 +1,4 @@
-###### [To skip this optional text, simply click here or scroll to the section titled "PolyForm Noncommercial License 1.0.0"](https://github.com/scramblr/licenses/LICENSE.md#polyform-noncommercial-license-100).
+###### [To skip this optional text, simply click here or scroll to the section titled "PolyForm Noncommercial License 1.0.0"](https://github.com/scramblr/licenses/blob/main/LICENSE.md#polyform-noncommercial-license-100).
 # PREFACE
 _This PREFACE is not intended to serve as an addendum, legal notice, or otherwise and is included only as a courtesy to summarize & clarify the author's intentions in choosing the PolyForm Project's License Framework(s) to protect their work. The required full, standardized PolyForm License is found in it's entirity below this optional PREFACE section. PolyForm is a registered trademark of the Polyform Project._ https://polyformproject.org/
 
@@ -16,9 +16,10 @@ or _**ANY NON-NATURAL PERSON(S)**_ without first obtaining a seperate exclusion 
 - **Licensor:** scramblr AKA notdan
 - **SPDX-License-Identifier:** PolyForm-Noncommercial-1.0.0
 - **Email:** scramblr@blackhats.ru & licensing@notdan.org
-- **Website:** https://github.com/scramblr/licenses & notdan.org/licenses
+- **License Text:** [https://github.com/scramblr/licenses/blob/main/LICENSE.md](https://github.com/scramblr/licenses/blob/main/LICENSE.md#polyform-noncommercial-license-100)
+- **License Text Mirror:** [https://notdan.org/licenses/polyform-noncommercial-license-100.txt](https://notdan.org/licenses/polyform-noncommercial-license-100.txt)
 
-###### [To skip this optional text, simply click here or scroll to the section titled "PolyForm Noncommercial License 1.0.0"](https://github.com/scramblr/licenses/LICENSE.md#polyform-noncommercial-license-100).
+###### [To skip this optional text, simply click here or scroll to the section titled "PolyForm Noncommercial License 1.0.0"](https://github.com/scramblr/licenses/blob/main/LICENSE.md#polyform-noncommercial-license-100).
 
 #### End of PREFACE; Full Legal Text of the PolyForm Noncommercial License 1.0.0 beings directly below. ####
 ---
