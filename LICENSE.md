@@ -47,7 +47,7 @@ You must ensure that anyone who gets a copy of any part of the software from you
 > Required Notice: Copyright "notdan" AKA "scramblr"
 > - Email: "licensing@notdan.org"
 > - Website: https://backdoored.ru
-> - License: [https://github.com/scramblr/licenses/LICENSE.md](https://github.com/scramblr/licenses/LICENSE.md#polyform-noncommercial-license-100))
+> - License: [https://github.com/scramblr/licenses/blob/main/LICENSE.md#polyform-noncommercial-license-100](https://github.com/scramblr/licenses/blob/main/LICENSE.md#polyform-noncommercial-license-100)
 #####
 
 ## Changes and New Works License
