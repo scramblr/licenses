@@ -4,11 +4,9 @@
 
 This software, code, instructions, or other attached works (collectively “software”) are provided as an expressive work by the author, most commonly known as **notdan** AKA **scramblr**, and are licensed in a manner aligned with the author’s personal ethics and outward intent to restrict use.
 
-**Ecosystem Notice:** This is a Source-Available, Highly Restricted License. It is explicitly not an Open Source license and does not comply with the Open Source Initiative (OSI) or Free Software Foundation (FSF) definitions. It is intended strictly for personal, individual use.
-
 The author intends for these artistic expressions (“Software”) to be used **ONLY** by **natural person(s)** for **personal, individual** use and **non-commercial, non-revenue generating** use only, and **not** by organizations or governmental entities of any kind.
 
-### WARNING (Unauthorized Use)
+### Unauthorized Use Warning
 Unlicensed use by any **business**, **corporation**, **government**, **research or educational institution**, **non-profit organization**, **charitable organization**, **public research organization**, **public safety or health organization**, **environmental protection organization**, or **any legal entity or non-natural person(s)**, and/or use that is **commercial** or **revenue-generating**, without first obtaining a separate written exclusion or paid license from the licensor, will result in litigation seeking the maximum legally allowed penalty for unauthorized use, in a court of law.
 
 ### Contact Details for Licenses or Special Use Exception
@@ -58,13 +56,8 @@ License: [https://github.com/scramblr/licenses/blob/main/htp-v1.0.0.md](https://
 ### Patent License
 The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-### Noncommercial Purposes
-Any **non-commercial** purpose is a permitted purpose.
-
-### Personal Uses (Individual Natural Persons Only)
+### Personal Uses (Individual, Natural Persons Only)
 Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, **without any anticipated commercial application** is use for a permitted purpose—**provided that** the user is a **natural person** and the use is **personal/individual**, not performed on behalf of, for, or within any organization or legal entity.
-
-*Clarification regarding Independent Research: Utilizing public, academic, or institutional infrastructure (such as university networks, public code repositories, or academic journals) to host, publish, or facilitate independent, personal research does not constitute a violation of this clause, provided the research and subsequent use of the software is not directed by, funded by, or owned by said institution or organization.*
 
 ### Excluded Users / Non-Permitted Organizations
 Any use by any **business**, **corporation**, **government**, **any government institution of any kind**, **charitable organization**, **educational institution**, **public research organization**, **public safety or health organization**, **environmental protection organization**, or **non-profit organization**, and any use by **any legal entity or non-natural person(s)** is **NOT a permitted purpose**, regardless of funding source or obligations resulting from funding.
@@ -77,18 +70,13 @@ You may have “fair use” rights for the software under the law. These terms d
 ### No Other Rights
 Neither obtained licenses, exemptions from the author, nor these terms shall allow you to sublicense or transfer any of your licenses to another party, and shall not prevent the licensor from granting licenses to anyone else.
 
-This includes licenses obtained under any "Most Favored Nation" clauses, "Special Terms", or any terms set forth by the purchasing party or organization(s), regardless of how prescriptive they may be perceived by the licensee or purchasing party. The licensing body whom protects their works under the HACK THE PLANET ("HTP") License, shall, for any works, be protected by the HACK THE PLANET ("HTP") License Agreement in an irrevocable and authoritative manner which exists in perpetuity unless expressly stated in writing through license agreement or exemption from the licensing body/author.
-
 No third-party terms shall override, supersede, or otherwise modify the rights and restrictions granted in or by these terms.
 
-These terms do not imply or preclude inclusion of any additional licenses but recommends any additional terms be itemized below:
-- NO OTHER LICENSES INCLUDED.
-
 ### Patent Defense
-If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If you, or any entity you act on behalf of, make such a claim, your patent license ends immediately for work on behalf of that entity.
+If you, or any entity you act on behalf of, make any written claim that the software infringes or contributes to infringement of any patent, your patent license granted under these terms ends immediately.
 
 ### Violations
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses MAY, if authorized, continue without revocation if full compliance with these terms is achieved through corrective measures, as well as demonstrating practical steps have been introduced to correct past violations. Demonstration of compliance and correction of violations shall be produced within 90 calendar days and supplied to the licensing body after receipt and acknowledgement of the violation notification(s). Disputes over evidence to support compliance and correction will be solely decided by the licensing body. Refusal to comply, correct, or produce evidence of correction(s) shall result in all termination of licenses and/or exemptions immediately, and any affiliated entities or organizations will be in material breach and a state of non-compliance, and anticipated litigation.
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses MAY, if authorized, continue without revocation if full compliance with these terms is achieved through corrective measures, as well as demonstrating practical steps have been introduced to correct past violations. Demonstration of compliance and correction of violations shall be produced within 90 calendar days and supplied to the licensing body. The 90 days begin after notification in writing is sent regarding the violation(s). Disputes over evidence to support compliance and correction will be solely decided by the licensing body. Refusal to comply, correct, or produce evidence of correction(s) shall result in all termination of licenses and/or exemptions immediately, and any affiliated entities or organizations will be in material breach and a state of non-compliance, and anticipated litigation.
 
 Any violation notifications that are ignored, disputed, or refused shall result in immediate license revocation as well as anticipated litigation.
 
